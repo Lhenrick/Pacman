@@ -2,6 +2,8 @@
 
 Este projeto implementa um jogo Pac-Man jogável no terminal usando a linguagem de programação C.
 
+ <img loading="lazy" height="300em" src="./img/pacman_img.png"/>
+
 ## Sumário
 
 - [Introdução](#introdução)
@@ -9,7 +11,6 @@ Este projeto implementa um jogo Pac-Man jogável no terminal usando a linguagem 
 - [Como Jogar](#como-jogar)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Funções Principais](#funções-principais)
-- [Contribuição](#contribuição)
 
 ## Introdução
 
